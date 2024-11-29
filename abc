@@ -1,1 +1,6 @@
+<<<<<<< HEAD
 asfwqfqwfqwfdsfdsfsdfds
+=======
+asfwqfqwfqw
+print("hello world")
+>>>>>>> feature/add-readme
